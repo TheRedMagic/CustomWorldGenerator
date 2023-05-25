@@ -1,0 +1,4 @@
+name: CWGPlugin
+version: '${project.version}'
+main: com.redmagic.customworldgenerator.CustomWorldGeneratorPLugin
+api-version: 1.19
